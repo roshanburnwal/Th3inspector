@@ -18,7 +18,7 @@
 <hr>
 
 <h2>Video</h2>
-<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
+<a href="https://www.youtube.com/watch?v=DtJc3VgytaA"><img src="https://i.ytimg.com/vi/DtJc3VgytaA/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAikIYAQ==&rs=AOn4CLDCtVpvmzA9jVR9tUsHD7FhURXNgw" style="max-width:100%;"></a>
 
 <h2>Usage</h2>
 
